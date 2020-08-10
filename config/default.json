@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://amud:amud123@blog.pnfie.mongodb.net/blog?retryWrites=true&w=majorityCopy"
+}
